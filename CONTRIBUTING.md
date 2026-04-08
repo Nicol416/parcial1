@@ -16,7 +16,3 @@
 ## Pull Request
 
 - Antes de unir cambios se debe revisar el contenido.
-
-
-
-

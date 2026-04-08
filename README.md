@@ -46,4 +46,3 @@ Este repositorio se encuentra en preparación para automatización con GitHub Ac
 ## Validación
 
 Se agregó workflow para revisar archivos markdown.
-
