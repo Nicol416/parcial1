@@ -3,6 +3,7 @@
 Este repositorio lo hice como parte de mi evaluación de la asignatura de Ingeniería DevOps.
 
 ## Objetivo
+
 La idea de este proyecto es aprender a usar Git, trabajar con ramas y automatizar procesos con GitHub Actions.
 
 ## Modelo de ramas
@@ -37,3 +38,7 @@ Porque me permite trabajar de forma ordenada, sin afectar la versión principal,
 ## Automatización
 
 Se agregó un workflow en GitHub Actions que revisa que los archivos markdown estén bien escritos.
+## Estado del proyecto
+Este repositorio se encuentra en preparación para automatización con GitHub Actions.
+## Validación
+Se agregó workflow para revisar archivos markdown.
