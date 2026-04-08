@@ -1,7 +1,19 @@
-# Registro de cambios
+# Guía de contribución
 
-## v1.0
+## Reglas generales
 
-- Se crea README.
-- Se agrega CONTRIBUTING.
-- Se implementa estructura de ramas.
+- No trabajar directo en main.
+- Los cambios se hacen en ramas.
+- Los commits deben tener mensajes claros.
+
+## Tipos de ramas
+
+- main
+- develop
+- feature/nombre
+- hotfix/nombre
+
+## Pull Request
+
+- Antes de unir cambios se debe revisar el contenido.
+
